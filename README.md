@@ -1,10 +1,19 @@
-- 👋 Hi, I’m @youssef-shoala
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+AI Software Development Consultant @ Vosyn || U of T 2025 Electrical & Comptuer Engineering (Emphasis: Identity, Privacy, & Security) || PSU 2023 Computer Engineering (Minor: Cybersecurity)
 
-<!---
-youssef-shoala/youssef-shoala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+LinkedIn: https://www.linkedin.com/in/youssef-shoala/
+
+Programming Languages: C, Python, Bash, Java, C#, C++, Terraform, Ansible, HTML, JavaScript, Verilog, MATLAB, Apex, LaTeX, CSS 
+
+Network Analysis Tools: Burp Suite, Wireshark, BUSMASTER, Standard Linux Networking Tools (Netcat, ifconfig, etc.) 
+
+Databases, Tools, and OS: Git, SQL, Redis, Flask, Docker, K8s, Azure, AWS, VirtualBox, Excel/VBA, Photoshop, Acrobat, Windows, Linux/Unix 
+
+Certifications: CompTIA Security+, CodePath Android Development (Android Studio), CodePath Cyber Security Course (Burp Suite)
+
+Relevant Masters Coursework: 
+Web Scaling, Cloud Computing, Cybersecurity for CASE Vehicles
+
+Relevant Undergrad Coursework: 
+Computer and Network Security, Signals and Systems, Wireless Communications Systems and Security, Operating Systems Design and Construction, Computer Architecture, Systems Programming, Design and Analysis of Algorithms
+
+Using strong skills in leadership and communication, as well as a culturally diverse and international mindset, aims to build upon technical skills and never stop learning.
