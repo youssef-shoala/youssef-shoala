@@ -1,6 +1,4 @@
-AI Software Development Consultant @ Vosyn || U of T 2025 Electrical & Comptuer Engineering (Emphasis: Identity, Privacy, & Security) || PSU 2023 Computer Engineering (Minor: Cybersecurity)
-
-LinkedIn: https://www.linkedin.com/in/youssef-shoala/
+AI & Cybersecurity Consultant @ Vosyn || U of T 2025 Electrical & Comptuer Engineering (Emphasis: Identity, Privacy, & Security) || PSU 2023 Computer Engineering (Minor: Cybersecurity)
 
 Programming Languages: C, Python, Bash, Java, C#, C++, Terraform, Ansible, HTML, JavaScript, Verilog, MATLAB, Apex, LaTeX, CSS 
 
@@ -11,7 +9,7 @@ Databases, Tools, and OS: Git, SQL, Redis, Flask, Docker, K8s, Azure, AWS, Virtu
 Certifications: CompTIA Security+, CodePath Android Development (Android Studio), CodePath Cyber Security Course (Burp Suite)
 
 Relevant Masters Coursework: 
-Web Scaling, Cloud Computing, Cybersecurity for CASE Vehicles
+Advanced Fuzzing, Web Scaling, Cloud Computing, Cybersecurity for CASE Vehicles
 
 Relevant Undergrad Coursework: 
 Computer and Network Security, Signals and Systems, Wireless Communications Systems and Security, Operating Systems Design and Construction, Computer Architecture, Systems Programming, Design and Analysis of Algorithms
