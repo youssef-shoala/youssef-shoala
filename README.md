@@ -1,4 +1,4 @@
-AI & Cybersecurity Consultant @ Vosyn || U of T 2025 Electrical & Comptuer Engineering (Emphasis: Identity, Privacy, & Security) || PSU 2023 Computer Engineering (Minor: Cybersecurity)
+AI Software Development & Cybersecurity Consultant @ Vosyn  ||  U of T 2025 Electrical & Comptuer Engineering (Emphasis: Identity, Privacy, & Security)  ||  PSU 2023 Computer Engineering (Minor: Cybersecurity)
 
 Programming Languages: C, Python, Bash, Java, C#, C++, Terraform, Ansible, HTML, JavaScript, Verilog, MATLAB, Apex, LaTeX, CSS 
 
